@@ -1,6 +1,7 @@
 # AnyRouter 签到助手
 
 > 多账号自动签到 · 余额追踪 · 多渠道通知 · 支持 GitHub Actions
+> anyrouter自动签到脚本
 
 基于  [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) 二次开发，感谢原作者。
 
