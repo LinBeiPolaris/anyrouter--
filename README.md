@@ -2,7 +2,7 @@
 
 > 多账号自动签到 · 余额追踪 · 多渠道通知 · 支持 GitHub Actions
 
-基于 [rakuyoMo/autocheck-anyrouter](https://github.com/rakuyoMo/autocheck-anyrouter) 和 [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) 二次开发，感谢原作者。
+基于  [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) 二次开发，感谢原作者。
 
 ---
 
